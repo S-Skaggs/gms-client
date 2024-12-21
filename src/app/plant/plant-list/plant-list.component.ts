@@ -58,7 +58,6 @@ import { HighlightRecentDirective } from '../highlight-recent.directive';
             <th class="plant-page__table-header">Functions</th>
           </tr>
         </thead>
-        RICHARD KRASSO 178
         <tbody class="plant-page__table-body">
           @for (plant of plants; track plant) {
           <tr class="plant-page__table-row" [appHighlightRecent]="plant.datePlanted!">
