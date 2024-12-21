@@ -43,7 +43,6 @@ import { debounceTime } from 'rxjs';
             <th class="garden-page__table-header">Description</th>
             <th class="garden-page__table-header">Date Created</th>
             <th class="garden-page__table-header">Functions</th>
-            Lean, MEAN, and Pragmatic: A Guide to Full-Stack JavaScript 173
           </tr>
         </thead>
         <tbody class="garden-page__table-body">
